@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525189124452",
+    "project_id": "classy-cut-barbershop",
+    "storage_bucket": "classy-cut-barbershop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525189124452:android:f16ce5d1f4891f079f6a71",
+        "android_client_info": {
+          "package_name": "apps.mobile.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525189124452-roo829l6nmmcqj7mnvob1gd91p96s12v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.mobile.pos",
+            "certificate_hash": "1c7d7bc4769e70ed52a0eee8645129fae9149749"
+          }
+        },
+        {
+          "client_id": "525189124452-bo42o6062btefaonaj72o2drknv836rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6-FEo3pIQsn-UgsXJ3t65jeN1u14JJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525189124452-bo42o6062btefaonaj72o2drknv836rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
